@@ -1,9 +1,10 @@
 #Tic Tac Toe
-A CLI implementation of tic tac toe game
+A CLI implementation of <a href="http://en.wikipedia.org/wiki/Tic-tac-toe">tic tac toe</a> game
 Run the game with $ ruby tictactoe.rb
 
 Game cells are represented by number 1-9 as shown in figure below. To select a cell, type its corresponding number and press enter
 
+<code>
    |   |   |
  1 | 2 | 3 |
  --+---+---+
@@ -13,3 +14,4 @@ Game cells are represented by number 1-9 as shown in figure below. To select a c
    |   |   |
  7 | 8 | 9 |
  --+---+---+
+</code>
