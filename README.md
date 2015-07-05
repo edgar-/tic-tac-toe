@@ -4,7 +4,6 @@ Run the game with $ ruby tictactoe.rb
 
 Game cells are represented by number 1-9 as shown in figure below. To select a cell, type its corresponding number and press enter
 
-<code>
    |   |   |
  1 | 2 | 3 |
  --+---+---+
@@ -14,4 +13,3 @@ Game cells are represented by number 1-9 as shown in figure below. To select a c
    |   |   |
  7 | 8 | 9 |
  --+---+---+
-</code>
